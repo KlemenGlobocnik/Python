@@ -1,4 +1,4 @@
-ime_datoteke="text2.txt"
+ime_datoteke="forenzicni.txt"
 datoteka=open(ime_datoteke,"r")
 
 with open(ime_datoteke, "r") as datoteka:
